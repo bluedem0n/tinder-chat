@@ -1,0 +1,35 @@
+{
+  "name": "tinder",
+  "version": "1.0.0",
+  "description": "Proyecto Demo Tinder",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sthecrash/tinder.git"
+  },
+  "keywords": [
+    "tinder",
+    "amor",
+    "ligue",
+    "anillo",
+    "sexo",
+    "sin",
+    "compromiso",
+    "diversion",
+    "heteros",
+    "undefined"
+  ],
+  "author": "Sthefany Floriano , Michelle Seguil , Liz Ruelas",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sthecrash/tinder/issues"
+  },
+  "homepage": "https://github.com/sthecrash/tinder#readme",
+  "dependencies": {
+    "express": "^4.14.0",
+    "socket.io": "^1.5.1"
+  }
+}
